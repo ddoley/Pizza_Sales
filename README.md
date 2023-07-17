@@ -1,2 +1,2 @@
 # Pizza_Sales_Report
-This project shows the various reports for a Pizza Store
+This Project Report will give the various insight in a Pizza Store for the year 2015
