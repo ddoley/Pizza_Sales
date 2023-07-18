@@ -13,7 +13,7 @@ In this project i have created a Pizza Sales Dashboard in Excel and then wrote s
 ## Project Learning  
   -- Performed data cleaning and manipulation  
   -- Imporved customer experience by identifying the worst & most selling pizza along with category and size which can help to plan   inventory and hence meet the 
-     demands
+       demands
    
 
 
