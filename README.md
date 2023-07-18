@@ -1,7 +1,7 @@
 # Pizza_Sales_Report
 This  is a Project Report of a  Pizza Store for the year 2015  
 
-Objective:
+Objective:  
 In this project i have created a Pizza Sales Dashboard in Excel and then wrote sql queries in MySQL to test and verify the results that we got in Excel
   1.Functional Validation-Test each feature work as per the requirement.To verify all the filters and Action Filters on the report work as per the requirement
   2.Data Validation:-Check accuracy and quality of data.To match the values in Excel report with SQL queries.
